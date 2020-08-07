@@ -175,7 +175,7 @@ function gameloop()
 		game_over.play();
 		clearInterval(f);
 		alert("GAME OVER!!TRY AGAIN")
-		// window.location.reload(); 
+	 window.location.reload(); 
 	}
 	draw();
 	update();
